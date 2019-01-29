@@ -1,0 +1,18 @@
+Connection has been lost
+Server is restarting
+Server is full
+too many people
+End Of Stream
+Internal Server Error:java.net.Minecraft
+Internal exception: java.io.IOException: Received string length longer than maximum allowed (105>100)
+Internal Server Error
+Disconnected
+Illegal characters in chat
+disconnect.spam
+Read timed out
+Bad login
+Flying is not enabled on this server
+Attempting to attack an invalid entity
+Illegal stance
+Illegal position
+You have been idle for too long!
